@@ -25,8 +25,8 @@
 
 - Randomizes and selects one of the 2 modes mentioned above and runs it.
 
-## Logs ##
+## Execution Logs ##
 
-- After the Swiftbot session is over, it prompts the user to view logs.
-- If the user selects yes, the log will be displayed to the user.
-- The logs contain the Mode that Swiftbot had run, the duration of the session, the number of objects the Swiftbot had encountered and the number of images the Swiftbot took.
+- After the Swiftbot session is over, it prompts the user to view execution logs.
+- If the user selects yes, the execution logs will be displayed to the user.
+- The execution logs contain the Mode that Swiftbot had run, the duration of the session, the number of objects the Swiftbot had encountered and the number of images the Swiftbot took.
